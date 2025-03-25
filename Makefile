@@ -1,5 +1,5 @@
 # 可用的 IDE 列表
-IDES := github-copilot cursor windsurf
+IDES := github-copilot cursor windsurf cline
 
 # 可用的任务列表 (不包含 .md 后缀)
 TASKS := 1-logical-reasoning-and-algorithm \
